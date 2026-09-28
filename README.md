@@ -24,9 +24,9 @@
 
 ### 👨‍💻 About Me
 
-I’m a **Mobile Application Developer** focused on building modern cross-platform and native Android applications using **Flutter, Dart, Kotlin, and Java**. I have hands-on experience with **Jetpack Compose, Firebase, Cloud Firestore, SQLite, REST APIs, Retrofit, BLoC/Cubit, Clean Architecture, location services, sensors, authentication, and real-time data**. My mobile development background has been strengthened through training and internship programs with **DEPI, YAT Learning Center, Global Knowledge, ITI, and CodeAlpha**, along with hands-on mobile projects.
+I’m a **Mobile Application Developer** focused on building modern cross-platform and native Android applications using **Flutter, Dart, Kotlin, and Java**. I have hands-on experience with **Jetpack Compose, Firebase, Cloud Firestore, SQLite, REST APIs, Retrofit, BLoC/Cubit, Clean Architecture, location services, sensors, authentication, and real-time data**. My mobile development background has been strengthened through training and internship programs, along with hands-on mobile projects.
 
-Alongside mobile development, I’m also a **Full Stack Developer** with experience in **React, TypeScript, ASP.NET Core, C#, Node.js, Express.js, Spring Boot, REST APIs, databases, authentication, and backend integration**. My full-stack experience has been developed through training and internship programs with **NTI and Decode Labs**, as well as hands-on projects involving frontend, backend, databases, APIs, Clean Architecture, and distributed systems.
+Alongside mobile development, I’m also a **Full Stack Developer** with experience in **React, TypeScript, ASP.NET Core, C#, Node.js, Express.js, Spring Boot, REST APIs, databases, authentication, and backend integration**. My full-stack experience includes projects involving frontend development, backend services, databases, APIs, Clean Architecture, real-time communication, and distributed systems.
 
 ---
 
@@ -83,103 +83,81 @@ Alongside mobile development, I’m also a **Full Stack Developer** with experie
 
 ---
 
-### 🚀 Featured Mobile Projects
+### 🚀 Selected Projects
 
-#### 🪡 [Pattern & Sign Language](https://github.com/ahmed-magdy-gitt/pattern-and-sign-language-app)
+#### 📱 Mobile Applications
 
-An accessibility-focused Flutter platform that teaches garment drafting to deaf and hard-of-hearing learners through interactive evaluations, video content, and community feedback.
+**[Pattern & Sign Language](https://github.com/ahmed-magdy-gitt/pattern-and-sign-language-app)**
 
-**Tech:** Flutter, Dart, Firebase, YouTube Embedded API, RTL UI
+Flutter-based accessibility platform designed to support deaf and hard-of-hearing learners through interactive garment-drafting lessons, evaluation workflows, video content, and community feedback.
 
----
-
-#### 🎮 [Online XO](https://github.com/ahmed-magdy-gitt/online-XO-App)
-
-A real-time multiplayer Tic-Tac-Toe application with public and private matchmaking, real-time Firestore synchronization, timers, authentication, and atomic score updates.
-
-**Tech:** Flutter, Dart, BLoC/Cubit, Equatable, Firebase Auth, Cloud Firestore
+**Technologies:** Flutter, Dart, Firebase, YouTube Embedded API, RTL UI
 
 ---
 
-#### 🗺️ [Desert Maps & Offline GPS](https://github.com/ahmed-magdy-gitt/Maps-GPS-App)
+**[Online XO](https://github.com/ahmed-magdy-gitt/online-XO-App)**
 
-A fully offline Android navigation application designed for desert environments, using GPS, magnetometer, and orientation sensors without relying on network connectivity.
+Real-time multiplayer Tic-Tac-Toe application featuring public and private matchmaking, Firebase authentication, real-time game synchronization, timers, and atomic score updates.
 
-**Tech:** Kotlin, Android Location API, Magnetometer, Orientation Sensors, Gradle Kotlin DSL
-
----
-
-#### 🎬 [Movie Discovery App](https://github.com/ahmed-magdy-gitt/movie-discovery-app)
-
-A modern Android movie discovery application built with Jetpack Compose and a tested Retrofit networking layer.
-
-**Tech:** Kotlin, Jetpack Compose, Material Design 3, Retrofit, Navigation, JUnit
+**Technologies:** Flutter, Dart, BLoC/Cubit, Equatable, Firebase Auth, Cloud Firestore
 
 ---
 
-#### 🕌 [Prayer App — Athan & Qibla](https://github.com/ahmed-magdy-gitt/MobileApp_Prayer)
+**[Desert Maps & Offline GPS](https://github.com/ahmed-magdy-gitt/Maps-GPS-App)**
 
-A prayer-times and Qibla application combining REST API integration, location services, and device sensors for accurate Qibla direction.
+Offline Android navigation application designed for desert environments, integrating GPS positioning with magnetometer and orientation sensors for location and directional navigation without network dependency.
 
-**Tech:** Kotlin, Retrofit 2, Gson, SensorManager, FusedLocationProviderClient
-
----
-
-#### 🥗 [HealthyMe](https://github.com/ahmed-magdy-gitt/MobileApp_HealthyMe_BMI)
-
-A BMI and health application featuring dynamic category-based theming and animated Android UI.
-
-**Tech:** Kotlin, Android SDK, ViewBinding, GradientDrawable, DecelerateInterpolator
+**Technologies:** Kotlin, Android Location API, Magnetometer, Orientation Sensors, Gradle Kotlin DSL
 
 ---
 
-### 🌐 Full Stack Projects
+**[Movie Discovery App](https://github.com/ahmed-magdy-gitt/movie-discovery-app)**
 
-#### 🚗 [DriveShare](https://github.com/ahmed-magdy-gitt/DriveShare-CarRental-Platform)
+Modern Android movie discovery application featuring a responsive Jetpack Compose interface, Material Design 3 components, REST API integration, and a tested networking layer.
 
-A peer-to-peer car rental platform built with Clean Architecture, real-time SignalR communication, JWT authentication, and role-based access control.
-
-**Tech:** ASP.NET Core (.NET 8), C#, React, TypeScript, Vite, EF Core, SQL Server, SignalR, JWT, RBAC
+**Technologies:** Kotlin, Jetpack Compose, Material Design 3, Retrofit, Navigation, JUnit
 
 ---
 
-#### 🏢 [Coworking Hub](https://github.com/ahmed-magdy-gitt/Coworking-Space-Booking-System)
+**[Prayer App — Athan & Qibla](https://github.com/ahmed-magdy-gitt/MobileApp_Prayer)**
 
-A distributed coworking-space booking platform built using independent microservices with service discovery, API gateway routing, and Docker orchestration.
+Android application combining prayer-time API integration, location services, and device sensors to provide prayer information and calculate Qibla direction.
 
-**Tech:** Java, Spring Boot, Spring Cloud Eureka, Spring Cloud Gateway, Spring Data JPA, MySQL, Docker Compose
-
----
-
-#### 🏋️ [Gym-XFIT](https://github.com/ahmed-magdy-gitt/Gym-XFIT-Full-Stack-Implementation)
-
-A gym platform combining e-commerce, memberships, class scheduling, trainer information, and client-side cart management.
-
-**Tech:** JavaScript, HTML5, CSS3, Bootstrap 5, LocalStorage
+**Technologies:** Kotlin, Retrofit 2, Gson, SensorManager, FusedLocationProviderClient
 
 ---
 
-### 🎓 Training & Professional Development
+**[HealthyMe](https://github.com/ahmed-magdy-gitt/MobileApp_HealthyMe_BMI)**
 
-- **Digital Egypt Pioneers Initiative (DEPI) — Flutter Track**
-  - Global Knowledge
-  - Advanced Flutter, Dart, application architecture, state management, testing, and deployment.
+Android health application focused on BMI calculation with dynamic category-based theming, animated UI elements, and responsive user interactions.
 
-- **Digital Egypt Pioneers Initiative (DEPI) — Android Track**
-  - YAT Learning Center
-  - Kotlin, Java, Android Studio, Jetpack Compose, Android SDK, and native application development.
+**Technologies:** Kotlin, Android SDK, ViewBinding, GradientDrawable, DecelerateInterpolator
 
-- **Information Technology Institute (ITI)**
-  - Flutter & Dart mobile application development.
+---
 
-- **National Telecommunication Institute (NTI)**
-  - Full-Stack / MEAN Stack development.
+### 🌐 Full Stack Applications
 
-- **CodeAlpha**
-  - Flutter development internship and practical mobile application development.
+**[DriveShare](https://github.com/ahmed-magdy-gitt/DriveShare-CarRental-Platform)**
 
-- **Decode Labs**
-  - Full-Stack Software Engineering internship.
+Full-stack peer-to-peer car rental platform implementing Clean Architecture, role-based access control, JWT authentication, and real-time communication between users and the platform.
+
+**Technologies:** ASP.NET Core (.NET 8), C#, React, TypeScript, Vite, EF Core, SQL Server, SignalR, JWT, RBAC
+
+---
+
+**[Coworking Hub](https://github.com/ahmed-magdy-gitt/Coworking-Space-Booking-System)**
+
+Distributed coworking-space booking system developed as a microservices-based architecture with service discovery, API gateway routing, independent services, and containerized deployment.
+
+**Technologies:** Java, Spring Boot, Spring Cloud Eureka, Spring Cloud Gateway, Spring Data JPA, MySQL, Docker Compose
+
+---
+
+**[Gym-XFIT](https://github.com/ahmed-magdy-gitt/Gym-XFIT-Full-Stack-Implementation)**
+
+Full-stack gym management and e-commerce platform combining membership management, class scheduling, trainer information, product browsing, and client-side cart functionality.
+
+**Technologies:** JavaScript, HTML5, CSS3, Bootstrap 5, LocalStorage
 
 ---
 
@@ -188,7 +166,8 @@ A gym platform combining e-commerce, memberships, class scheduling, trainer info
 I’m currently open to new opportunities in **Mobile Application Development, Flutter, Native Android, and Full-Stack Development**.
 
 <p align="center">
-  <b>Let's build something remarkable together!</b><br/><br/>
+  <b>Let's build something remarkable together!</b>
+  <br/><br/>
   📧 <a href="mailto:ahmed2050magdy@gmail.com">ahmed2050magdy@gmail.com</a>
   <br/>
   📱 +20 114 319 6324
