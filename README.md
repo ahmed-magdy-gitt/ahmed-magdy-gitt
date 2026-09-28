@@ -15,9 +15,9 @@
   <a href="https://portfolio-gilt-theta-57.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00AEEF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://portfolio-gilt-theta-57.vercel.app/CV.pdf">
-    <img src="https://img.shields.io/badge/CV-Download-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
-  </a>
+<a href="https://portfolio-gilt-theta-57.vercel.app/CV.pdf">
+  <img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
+</a>
 </p>
 
 ---
@@ -82,82 +82,34 @@ Alongside mobile development, I’m also a **Full Stack Developer** with experie
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+### 🚀 Projects
 
-### 🚀 Selected Projects
+## 📱 Mobile Applications
 
-#### 📱 Mobile Applications
+| Project | Description | Technologies |
+|:---|:---|:---|
+| **[🪡 Pattern & Sign Language](https://github.com/ahmed-magdy-gitt/pattern-and-sign-language-app)** | Accessibility-focused Flutter application designed to support deaf and hard-of-hearing learners through interactive garment-drafting lessons, evaluation workflows, video content, and community feedback. | `Flutter` `Dart` `Firebase` `YouTube API` `RTL` |
+| **[🎮 Online XO](https://github.com/ahmed-magdy-gitt/online-XO-App)** | Real-time multiplayer Tic-Tac-Toe application with public and private matchmaking, authentication, real-time synchronization, timers, and atomic score updates. | `Flutter` `Dart` `BLoC/Cubit` `Firebase Auth` `Firestore` |
+| **[🗺️ Desert Maps & Offline GPS](https://github.com/ahmed-magdy-gitt/Maps-GPS-App)** | Offline Android navigation application for desert environments, integrating GPS positioning with magnetometer and orientation sensors for location and directional navigation without network dependency. | `Kotlin` `Android SDK` `GPS` `Sensors` |
+| **[🎬 Movie Discovery App](https://github.com/ahmed-magdy-gitt/movie-discovery-app)** | Modern Android movie discovery application featuring Jetpack Compose UI, Material Design 3 components, REST API integration, and a tested networking layer. | `Kotlin` `Jetpack Compose` `Retrofit` `JUnit` |
+| **[🕌 Prayer App — Athan & Qibla](https://github.com/ahmed-magdy-gitt/MobileApp_Prayer)** | Android application integrating prayer-time APIs, location services, and device sensors to provide prayer information and Qibla direction. | `Kotlin` `Retrofit` `Sensors` `Location API` |
+| **[🥗 HealthyMe](https://github.com/ahmed-magdy-gitt/MobileApp_HealthyMe_BMI)** | Android health application focused on BMI calculation, dynamic category-based theming, and animated user interactions. | `Kotlin` `Android SDK` `ViewBinding` |
 
-**[Pattern & Sign Language](https://github.com/ahmed-magdy-gitt/pattern-and-sign-language-app)**
+<br>
 
-Flutter-based accessibility platform designed to support deaf and hard-of-hearing learners through interactive garment-drafting lessons, evaluation workflows, video content, and community feedback.
+## 🌐 Full Stack Applications
 
-**Technologies:** Flutter, Dart, Firebase, YouTube Embedded API, RTL UI
+| Project | Description | Technologies |
+|:---|:---|:---|
+| **[🚗 DriveShare](https://github.com/ahmed-magdy-gitt/DriveShare-CarRental-Platform)** | Peer-to-peer car rental platform implementing Clean Architecture, JWT authentication, role-based access control, and real-time communication. | `ASP.NET Core` `.NET 8` `C#` `React` `TypeScript` `EF Core` `SQL Server` `SignalR` |
+| **[🏢 Coworking Hub](https://github.com/ahmed-magdy-gitt/Coworking-Space-Booking-System)** | Distributed coworking-space booking system built with a microservices architecture, service discovery, API gateway routing, and containerized deployment. | `Java` `Spring Boot` `Eureka` `Gateway` `JPA` `MySQL` `Docker` |
+| **[🏋️ Gym-XFIT](https://github.com/ahmed-magdy-gitt/Gym-XFIT-Full-Stack-Implementation)** | Gym management and e-commerce platform combining membership management, class scheduling, trainer information, product browsing, and client-side cart functionality. | `JavaScript` `HTML5` `CSS3` `Bootstrap` `LocalStorage` |
 
----
+<br>
 
-**[Online XO](https://github.com/ahmed-magdy-gitt/online-XO-App)**
-
-Real-time multiplayer Tic-Tac-Toe application featuring public and private matchmaking, Firebase authentication, real-time game synchronization, timers, and atomic score updates.
-
-**Technologies:** Flutter, Dart, BLoC/Cubit, Equatable, Firebase Auth, Cloud Firestore
-
----
-
-**[Desert Maps & Offline GPS](https://github.com/ahmed-magdy-gitt/Maps-GPS-App)**
-
-Offline Android navigation application designed for desert environments, integrating GPS positioning with magnetometer and orientation sensors for location and directional navigation without network dependency.
-
-**Technologies:** Kotlin, Android Location API, Magnetometer, Orientation Sensors, Gradle Kotlin DSL
-
----
-
-**[Movie Discovery App](https://github.com/ahmed-magdy-gitt/movie-discovery-app)**
-
-Modern Android movie discovery application featuring a responsive Jetpack Compose interface, Material Design 3 components, REST API integration, and a tested networking layer.
-
-**Technologies:** Kotlin, Jetpack Compose, Material Design 3, Retrofit, Navigation, JUnit
-
----
-
-**[Prayer App — Athan & Qibla](https://github.com/ahmed-magdy-gitt/MobileApp_Prayer)**
-
-Android application combining prayer-time API integration, location services, and device sensors to provide prayer information and calculate Qibla direction.
-
-**Technologies:** Kotlin, Retrofit 2, Gson, SensorManager, FusedLocationProviderClient
-
----
-
-**[HealthyMe](https://github.com/ahmed-magdy-gitt/MobileApp_HealthyMe_BMI)**
-
-Android health application focused on BMI calculation with dynamic category-based theming, animated UI elements, and responsive user interactions.
-
-**Technologies:** Kotlin, Android SDK, ViewBinding, GradientDrawable, DecelerateInterpolator
-
----
-
-### 🌐 Full Stack Applications
-
-**[DriveShare](https://github.com/ahmed-magdy-gitt/DriveShare-CarRental-Platform)**
-
-Full-stack peer-to-peer car rental platform implementing Clean Architecture, role-based access control, JWT authentication, and real-time communication between users and the platform.
-
-**Technologies:** ASP.NET Core (.NET 8), C#, React, TypeScript, Vite, EF Core, SQL Server, SignalR, JWT, RBAC
-
----
-
-**[Coworking Hub](https://github.com/ahmed-magdy-gitt/Coworking-Space-Booking-System)**
-
-Distributed coworking-space booking system developed as a microservices-based architecture with service discovery, API gateway routing, independent services, and containerized deployment.
-
-**Technologies:** Java, Spring Boot, Spring Cloud Eureka, Spring Cloud Gateway, Spring Data JPA, MySQL, Docker Compose
-
----
-
-**[Gym-XFIT](https://github.com/ahmed-magdy-gitt/Gym-XFIT-Full-Stack-Implementation)**
-
-Full-stack gym management and e-commerce platform combining membership management, class scheduling, trainer information, product browsing, and client-side cart functionality.
-
-**Technologies:** JavaScript, HTML5, CSS3, Bootstrap 5, LocalStorage
+<p align="center">
+  <i>Building practical applications across mobile, web, backend, and distributed systems.</i>
+</p>
 
 ---
 
